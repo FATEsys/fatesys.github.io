@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+name: The FATEsys Workshop
+title: The FATEsys Workshop
+description: The ACM SIGEnergy Workshop on Fair, Accountable, Transparent, and Ethical (FATE) AI for Smart Environments and Energy Systems
+github:
+  is_project_page: false
