@@ -5,3 +5,6 @@ With the advent of IoT, high performance computing, and ubiquitous and smart sen
 ### History
  - [FATEsys 2021](https://fatesys.github.io/2021/) (co-located with [ACM SenSys/BuildSys 2021](https://buildsys.acm.org/2021/))
  - [FATEsys 2022](https://fatesys.github.io/2022/) (co-located with [ACM SenSys/BuildSys 2022](https://buildsys.acm.org/2022/))
+
+
+![ACM SIGEnergy][sigenergy-logo.jpg]
